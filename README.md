@@ -35,8 +35,7 @@
 |---|---|---|---|
 | 👤 Member 1 | Kin Alejandro Ramos | Systems Architect & Prompt Lead | Task 1, Task 5 |
 | 👤 Member 2 | Kenneth Nasser Nocon | Frontend Engineer | Task 2 |
-| 👤 Member 3 | Justine Dave Ocampo | Database & Backend Engineer | Task 3 |
-| 👤 Member 4 | [Member 4 name] | QA & Security Engineer | Task 4 |
+| 👤 Member 3 | Justine Dave Ocampo | Database & Backend Engineer, QA & Security Engineer| Task 3 & Task 4 |
 
 ---
 
